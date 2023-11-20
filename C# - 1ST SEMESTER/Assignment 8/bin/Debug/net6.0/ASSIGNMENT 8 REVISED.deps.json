@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ASSIGNMENT 8 REVISED/1.0.0": {
+        "runtime": {
+          "ASSIGNMENT 8 REVISED.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASSIGNMENT 8 REVISED/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
