@@ -1,0 +1,28 @@
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\bin\Debug\net6.0\Assignment5.exe
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\bin\Debug\net6.0\Assignment5.deps.json
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\bin\Debug\net6.0\Assignment5.runtimeconfig.json
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\bin\Debug\net6.0\Assignment5.dll
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\bin\Debug\net6.0\Assignment5.pdb
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfoInputs.cache
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfo.cs
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.dll
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\refint\Assignment5.dll
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.pdb
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.genruntimeconfig.cache
+C:\Users\luisa\Desktop\LASALLE FILES\ALGORYTHM PROGRAMMIN\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\ref\Assignment5.dll
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\bin\Debug\net6.0\Assignment5.exe
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\bin\Debug\net6.0\Assignment5.deps.json
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\bin\Debug\net6.0\Assignment5.runtimeconfig.json
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\bin\Debug\net6.0\Assignment5.dll
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\bin\Debug\net6.0\Assignment5.pdb
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfoInputs.cache
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfo.cs
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.csproj.CoreCompileInputs.cache
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.dll
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\refint\Assignment5.dll
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.pdb
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\Assignment5.genruntimeconfig.cache
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment5\obj\Debug\net6.0\ref\Assignment5.dll
