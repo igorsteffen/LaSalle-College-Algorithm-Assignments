@@ -1,0 +1,14 @@
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\bin\Debug\net6.0\Assignment9.exe
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\bin\Debug\net6.0\Assignment9.deps.json
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\bin\Debug\net6.0\Assignment9.runtimeconfig.json
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\bin\Debug\net6.0\Assignment9.dll
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\bin\Debug\net6.0\Assignment9.pdb
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\obj\Debug\net6.0\Assignment9.GeneratedMSBuildEditorConfig.editorconfig
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\obj\Debug\net6.0\Assignment9.AssemblyInfoInputs.cache
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\obj\Debug\net6.0\Assignment9.AssemblyInfo.cs
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\obj\Debug\net6.0\Assignment9.csproj.CoreCompileInputs.cache
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\obj\Debug\net6.0\Assignment9.dll
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\obj\Debug\net6.0\refint\Assignment9.dll
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\obj\Debug\net6.0\Assignment9.pdb
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\obj\Debug\net6.0\Assignment9.genruntimeconfig.cache
+D:\LASALLE\ALGORYTHMN\MY CODES\CODE PROJECT\PROJECT 1\AP1_2023\Assignment9\Assignment 9\Assignment9\obj\Debug\net6.0\ref\Assignment9.dll
